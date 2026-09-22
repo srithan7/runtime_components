@@ -1,0 +1,9 @@
+[user]
+	name = Srithan Maripelly
+	email = srithangm@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
